@@ -1,2 +1,2 @@
-# data_science_portafolio
-Ciencia de Datos
+# Portafolio de ciencia de datos
+Este repositorio contiene proyectos de ciencia de datos hechos con fines de practica y perfeccion de habilidad existentes
